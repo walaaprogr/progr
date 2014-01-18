@@ -1,6 +1,7 @@
 <?php /**
  *  Ctrl+Shift+F
  */
+ //wwwwwwwwwwwwwwwwwwwwwww
 class Blog extends CI_Controller {
     function index() {
 
